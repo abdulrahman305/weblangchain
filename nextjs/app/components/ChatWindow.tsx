@@ -230,7 +230,7 @@ export function ChatWindow(props: {
   return (
     <div
       className={
-        "flex flex-col items-center p-8 rounded grow max-h-full h-full" +
+        "flex flex-col items-center p-8 rounded grow max-h-full h-full bg-gray-200" +
         (messages.length === 0 ? " justify-center mb-32" : "")
       }
     >
