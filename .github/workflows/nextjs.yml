@@ -81,6 +81,9 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+                        - name: Vercel Actions
+                uses: nexterias/actions-vercel@v1.0.3
+            
 
   # Deployment job
   deploy:
