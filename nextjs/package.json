@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.1.0",
-    "@chakra-ui/react": "^2.8.1",
+    "@chakra-ui/react": "^2.9.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@google-cloud/tpu": "^3.3.0",
@@ -28,7 +28,7 @@
     "dompurify": "^3.0.8",
     "emojisplosion": "^2.6.1",
     "eslint": "8.46.0",
-    "eslint-config-next": "13.4.13",
+    "eslint-config-next": "15.0.0",
     "framer-motion": "^10.16.4",
     "graphql": "^16.8.1",
     "hasura-cli": "^2.36.1",
